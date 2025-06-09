@@ -1,0 +1,8 @@
+my_env
+mysite/mysite/.env
+mysite/mysite/settings.py
+mysite/mysite/__pycache__/
+mysite/db.sqlite3
+mysite/blog/static/
+*.log
+**/*.env
